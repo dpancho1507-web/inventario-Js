@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+button {
+  background: rgb(112, 21, 108);
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
